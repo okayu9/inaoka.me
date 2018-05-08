@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  @include large {
+    padding: 0.5rem 6rem;
+  }
+
+  @include medium {
+    padding: 0.25rem 4rem;
+  }
+
+  @include small {
+    padding: 0.125rem 1rem;
+  }
+}
+
+.page-header > h1 > a {
+  color: $header-heading-color;
+}
