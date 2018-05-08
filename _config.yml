@@ -42,3 +42,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+google_analytics: UA-118885341-1
+
