@@ -38,3 +38,5 @@
 - Confidence Modeling for Neural Semantic Parsing [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-confidence-modeling-for-neural-semantic-parsing) [Video](https://www.youtube.com/watch?v=4LEA5Jfhiyw)
 - Learning To Split and Rephrase From Wikipedia Edit History [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-learning-to-split-and-rephrase-from-wikipedia-edit-history) [Video](https://www.youtube.com/watch?v=9XM4pydW6po)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-why-self-attention-a-targeted-evaluation-of-neural-machine-translation-architectures) [Video](https://www.youtube.com/watch?v=BysTifsrZb0)
+- Bag-of-Words as Target for Neural Machine Translation [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-bag-of-words-as-target-for-neural-machine-translation) [Video](https://www.youtube.com/watch?v=8aEAuOx937U)
+- A Document Descriptor using Covariance of Word Vectors [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-a-document-descriptor-using-covariance-of-word-vectors) [Video](https://www.youtube.com/watch?v=_dp4f9SCF5M)
