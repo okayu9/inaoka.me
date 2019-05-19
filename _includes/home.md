@@ -19,7 +19,7 @@
 
 ## 文献紹介
 
-- 日本語学習者の作文における 誤用タイプの階層的アノテーションに基づく機械学習による自動分類 \[[Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-ri-ben-yu-xue-xi-zhe-falsezuo-wen-niokeru-wu-yong-taipufalsejie-ceng-de-afalsetesiyonniji-dukuji-jie-xue-xi-niyoruzi-dong-fen-lei)\] \[[Video](https://www.youtube.com/watch?v=gVW5LW6jJ40)\]
+- 日本語学習者の作文における誤用タイプの階層的アノテーションに基づく機械学習による自動分類 \[[Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-ri-ben-yu-xue-xi-zhe-falsezuo-wen-niokeru-wu-yong-taipufalsejie-ceng-de-afalsetesiyonniji-dukuji-jie-xue-xi-niyoruzi-dong-fen-lei)\] \[[Video](https://www.youtube.com/watch?v=gVW5LW6jJ40)\]
 - 入れ子依存木の刈り込みによる単一文書要約手法 \[[Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-ru-rezi-yi-cun-mu-falseyi-riip-miniyorudan-wen-shu-yao-yue-shou-fa)\] \[[Video](https://www.youtube.com/watch?v=qH0HIfNp6vM)\]
 - 直訳性を利用した機械翻訳知識の自動構築 \[[Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-zhi-yi-xing-woli-yong-sitaji-jie-fan-yi-zhi-shi-falsezi-dong-gou-zhu)\] \[[Video](https://www.youtube.com/watch?v=wltbtdm-bco)\]
 - 単語アライメントを用いた英日機械翻訳文の流暢さの自動評価 \[[Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-dan-yu-araimentowoyong-itaying-ri-ji-jie-fan-yi-wen-falseliu-chang-safalsezi-dong-ping-jia)\] \[[Video](https://www.youtube.com/watch?v=_Khyozom1tA)\]
