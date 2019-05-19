@@ -2,7 +2,7 @@
 
 ## 論文
 
-- 稲岡 夢人, ⼭本 和英. 日本語文法平易化コーパスの構築. 言語処理学会第25回年次大会, pp. 375-378 (2019.03).
+- 稲岡 夢人, ⼭本 和英. 日本語文法平易化コーパスの構築. 言語処理学会第25回年次大会, pp. 375-378 (2019.03). [Paper](http://box.jnlp.org/arc/19/19NLP-inaoka.pdf)
 - ⼭本 和英, 丸⼭ 拓海, ⾓張 ⻯晴, 稲岡 夢⼈, ⼩川 耀⼀朗, 勝⽥ 哲弘, 髙橋 寛治. やさしい⽇本語対訳コーパスの構築. 言語処理学会第23回年次大会, pp.763-766 (2017.03). [Paper](http://box.jnlp.org/arc/17/17NLP-yamamoto.pdf)
 
 ## B3勉強会
@@ -40,3 +40,5 @@
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-why-self-attention-a-targeted-evaluation-of-neural-machine-translation-architectures) [Video](https://www.youtube.com/watch?v=BysTifsrZb0)
 - Bag-of-Words as Target for Neural Machine Translation [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-bag-of-words-as-target-for-neural-machine-translation) [Video](https://www.youtube.com/watch?v=8aEAuOx937U)
 - A Document Descriptor using Covariance of Word Vectors [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-a-document-descriptor-using-covariance-of-word-vectors) [Video](https://www.youtube.com/watch?v=_dp4f9SCF5M)
+- Attention is not Explanation [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-attention-is-not-explanation) [Video](https://www.youtube.com/watch?v=ji9HgfECZNU)
+- Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification [Slide](https://speakerdeck.com/okayu9/wen-xian-shao-jie-complexity-weighted-loss-and-diverse-reranking-for-sentence-simplification) [Video](https://www.youtube.com/watch?v=ymOEK3YOeB4)
