@@ -2,20 +2,20 @@
 
 ## 論文
 
-- 稲岡 夢人, ⼭本 和英. 日本語文法平易化コーパスの構築. 言語処理学会第25回年次大会, pp. 375-378 (2019.03). \[[Paper](http://box.jnlp.org/arc/19/19NLP-inaoka.pdf)\]
-- ⼭本 和英, 丸⼭ 拓海, ⾓張 ⻯晴, 稲岡 夢⼈, ⼩川 耀⼀朗, 勝⽥ 哲弘, 髙橋 寛治. やさしい⽇本語対訳コーパスの構築. 言語処理学会第23回年次大会, pp.763-766 (2017.03). \[[Paper](http://box.jnlp.org/arc/17/17NLP-yamamoto.pdf)\]
+- \[[Paper](http://box.jnlp.org/arc/19/19NLP-inaoka.pdf)\] 稲岡 夢人, ⼭本 和英. 日本語文法平易化コーパスの構築. 言語処理学会第25回年次大会, pp. 375-378 (2019.03).
+- \[[Paper](http://box.jnlp.org/arc/17/17NLP-yamamoto.pdf)\] ⼭本 和英, 丸⼭ 拓海, ⾓張 ⻯晴, 稲岡 夢⼈, ⼩川 耀⼀朗, 勝⽥ 哲弘, 髙橋 寛治. やさしい⽇本語対訳コーパスの構築. 言語処理学会第23回年次大会, pp.763-766 (2017.03).
 
 ## B3勉強会
 
-- 日本語の形態素解析 \[[Slide](https://speakerdeck.com/okayu9/ri-ben-yu-falsexing-tai-su-jie-xi)\] \[[Video](https://www.youtube.com/watch?v=9b7jA1c-tlo)\]
-- 共通接頭辞検索 \[[Slide](https://speakerdeck.com/okayu9/gong-tong-jie-tou-ci-jian-suo)\] \[[Video](https://www.youtube.com/watch?v=_HS1zPiXG-c)\]
-- 構文解析 \[[Slide](https://speakerdeck.com/okayu9/gou-wen-jie-xi)\] \[[Video](https://www.youtube.com/watch?v=hZqeWdoK6-w)\]
-- 構文的曖昧性の解消 \[[Slide](https://speakerdeck.com/okayu9/gou-wen-de-ai-mei-xing-falsejie-xiao)\] \[[Video](https://www.youtube.com/watch?v=5Cd0VXi-qbc)\]
-- 意味の解析 \[[Slide](https://speakerdeck.com/okayu9/yi-wei-falsejie-xi)\] \[[Video](https://www.youtube.com/watch?v=TrTERFqfs0o)\]
-- 正規表現 \[[Slide](https://speakerdeck.com/okayu9/zheng-gui-biao-xian)\] \[[Video](https://www.youtube.com/watch?v=PuYKyOkZ1s4)\]
-- 文脈の解析 \[[Slide](https://speakerdeck.com/okayu9/wen-mo-falsejie-xi)\] \[[Video](https://www.youtube.com/watch?v=LJq-cR8JYOs)\]
-- 情報検索 \[[Slide](https://speakerdeck.com/okayu9/qing-bao-jian-suo)\] \[[Video](https://www.youtube.com/watch?v=wFa2XwX0R2k)\]
-- 対話システム \[[Slide](https://speakerdeck.com/okayu9/dui-hua-sisutemu)\] \[[Video](https://www.youtube.com/watch?v=P3KNfVEQ7r8)\]
+- \[[Slide](https://speakerdeck.com/okayu9/ri-ben-yu-falsexing-tai-su-jie-xi)\] \[[Video](https://www.youtube.com/watch?v=9b7jA1c-tlo)\] 日本語の形態素解析
+- \[[Slide](https://speakerdeck.com/okayu9/gong-tong-jie-tou-ci-jian-suo)\] \[[Video](https://www.youtube.com/watch?v=_HS1zPiXG-c)\] 共通接頭辞検索
+- \[[Slide](https://speakerdeck.com/okayu9/gou-wen-jie-xi)\] \[[Video](https://www.youtube.com/watch?v=hZqeWdoK6-w)\] 構文解析
+- \[[Slide](https://speakerdeck.com/okayu9/gou-wen-de-ai-mei-xing-falsejie-xiao)\] \[[Video](https://www.youtube.com/watch?v=5Cd0VXi-qbc)\] 構文的曖昧性の解消
+- \[[Slide](https://speakerdeck.com/okayu9/yi-wei-falsejie-xi)\] \[[Video](https://www.youtube.com/watch?v=TrTERFqfs0o)\] 意味の解析
+- \[[Slide](https://speakerdeck.com/okayu9/zheng-gui-biao-xian)\] \[[Video](https://www.youtube.com/watch?v=PuYKyOkZ1s4)\] 正規表現
+- \[[Slide](https://speakerdeck.com/okayu9/wen-mo-falsejie-xi)\] \[[Video](https://www.youtube.com/watch?v=LJq-cR8JYOs)\] 文脈の解析
+- \[[Slide](https://speakerdeck.com/okayu9/qing-bao-jian-suo)\] \[[Video](https://www.youtube.com/watch?v=wFa2XwX0R2k)\] 情報検索
+- \[[Slide](https://speakerdeck.com/okayu9/dui-hua-sisutemu)\] \[[Video](https://www.youtube.com/watch?v=P3KNfVEQ7r8)\] 対話システム
 
 ## 文献紹介
 
